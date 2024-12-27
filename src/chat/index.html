@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>聊天应用程序</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- 背景图层 -->
+    <div class="background"></div>
+
+    <!-- 居中容器 -->
+    <div class="center-container">
+      <!-- 磨砂层 -->
+      <div class="frosted-glass">
+        <!-- 顶部导航栏 -->
+        <div id="topNav">
+          <img src="../../svg/din.svg" alt="顶部图标" class="logo-icon" />
+        </div>
+
+        <!-- 左侧：账号列表 -->
+        <div id="sidebar">
+          <div class="sidebar-header">
+            <!-- <button class="edit-button">搜索</button> -->
+          </div>
+          <img
+            src="../../svg/acclist.svg"
+            alt="账号列表图标"
+            class="account-list-icon"
+          />
+          <div id="contactList" class="contact-list"></div>
+        </div>
+
+        <!-- 右侧：聊天显示区域 -->
+        <div id="chatDisplay">
+          <div class="chat-container" id="chatContainer"></div>
+        </div>
+
+        <!-- 聊天输入区域 -->
+        <div id="chatInput" class="chat-input-container">
+          <input
+            type="text"
+            id="chatInputText"
+            placeholder="输入消息..."
+            class="input-field"
+          />
+          <button id="sendButton" class="send-icon-button">
+            <img src="../../svg/send.svg" alt="发送" class="send-icon" />
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

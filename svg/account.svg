@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="722px" viewBox="0 0 301 722" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>account</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.279529065">
+        <g transform="translate(-67, -100)" fill="#08150A" stroke="#979797">
+            <g transform="translate(68, 101)">
+                <g transform="translate(-1, -1)">
+                    <path d="M61.2513022,1 L300,1 L300,1 L300,721 L61.2513022,721 C40.3006118,721 32.7033852,718.818598 25.044126,714.722381 C17.3848667,710.626165 11.3738352,704.615133 7.27761854,696.955874 C3.18140186,689.296615 1,681.699388 1,660.748698 L1,61.2513022 C1,40.3006118 3.18140186,32.7033852 7.27761854,25.044126 C11.3738352,17.3848667 17.3848667,11.3738352 25.044126,7.27761854 C32.7033852,3.18140186 40.3006118,1 61.2513022,1 Z" style="mix-blend-mode: normal;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

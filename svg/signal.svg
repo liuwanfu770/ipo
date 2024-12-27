@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="281px" height="73px" viewBox="0 0 281 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lucky_signal</title>
+    <defs>
+        <linearGradient x1="16.8357224%" y1="50%" x2="82.1389146%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="39.878071%"></stop>
+            <stop stop-color="#838383" offset="76.3002622%"></stop>
+            <stop stop-color="#605A5A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="BrushScriptMT, Brush Script MT" font-size="60" font-weight="normal">
+        <g transform="translate(-716, -101)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g transform="translate(716, 101)">
+                <text>
+                    <tspan x="4" y="53">Lucky Signal</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

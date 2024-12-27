@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1278px" height="70px" viewBox="0 0 1278 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>din</title>
+    <defs>
+        <linearGradient x1="16.8357224%" y1="50%" x2="82.1389146%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="39.878071%"></stop>
+            <stop stop-color="#838383" offset="76.3002622%"></stop>
+            <stop stop-color="#828282" offset="76.9203453%"></stop>
+            <stop stop-color="#605A5A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-80.9992, -90)">
+            <g transform="translate(79.9992, 90)">
+                <g transform="translate(1, 0)">
+                    <g transform="translate(0.0008, 0)">
+                        <rect stroke-opacity="0.562991696" stroke="#5E5E5E" fill-opacity="0.224295236" fill="#DADADA" x="0.5" y="0.5" width="1277" height="69" rx="8"></rect>
+                        <text font-family="SFPro-CondensedMedium, SF Pro" font-size="36" font-style="condensed" font-weight="400" fill="#032507">
+                            <tspan x="230.489451" y="47">􀏚</tspan>
+                        </text>
+                        <text font-family="SFPro-CondensedMedium, SF Pro" font-size="36" font-style="condensed" font-weight="400" fill="#032507">
+                            <tspan x="1175.05175" y="51">􀬅</tspan>
+                        </text>
+                        <text font-family="SFPro-CondensedMedium, SF Pro" font-size="36" font-style="condensed" font-weight="400" fill="#032507">
+                            <tspan x="516.450678" y="51">􀉰</tspan>
+                        </text>
+                        <text font-family="SFPro-CondensedMedium, SF Pro" font-size="36" font-style="condensed" font-weight="400" fill="#032507">
+                            <tspan x="1008.65344" y="51">􁈩</tspan>
+                        </text>
+                        <text fill="url(#linearGradient-1)" fill-rule="nonzero" font-family="BrushScriptMT, Brush Script MT" font-size="48" font-weight="normal">
+                            <tspan x="666.392272" y="49">Lucky Signal</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

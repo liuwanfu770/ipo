@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="720px" viewBox="0 0 299 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>acclist</title>
+    <defs>
+        <linearGradient x1="105.014872%" y1="48.971901%" x2="-13.526178%" y2="51.6388344%" id="linearGradient-1">
+            <stop stop-color="#262B3C" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#1F2331" stop-opacity="0.550043706" offset="28.8646279%"></stop>
+            <stop stop-color="#666A83" offset="49.9262456%"></stop>
+            <stop stop-color="#A9ACCA" stop-opacity="0.887620192" offset="67.3459353%"></stop>
+            <stop stop-color="#E1DFE3" offset="83.5473121%"></stop>
+            <stop stop-color="#F8F8F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-79.9992, -90)">
+            <g transform="translate(79.9992, 90)">
+                <path d="M56.406255,0 L299.000781,0 L299.000781,0 L299.000781,720 L56.406255,720 C36.7928428,720 29.6805455,717.957837 22.5101752,714.123081 C15.3398048,710.288324 9.71245616,704.660976 5.87770012,697.490605 C2.04294409,690.320235 0.000780640125,683.207938 0.000780640125,663.594526 L0.000780640125,56.4054744 C0.000780640125,36.7920621 2.04294409,29.6797649 5.87770012,22.5093945 C9.71245616,15.3390242 15.3398048,9.71167552 22.5101752,5.87691948 C29.6805455,2.04216345 36.7928428,0 56.406255,0 Z" fill="#000000" opacity="0.08" style="mix-blend-mode: normal;"></path>
+                <g transform="translate(1, 23)">
+                    <rect stroke-opacity="0.511254371" stroke="#4E6651" x="0.5" y="47.5" width="296.767369" height="618"></rect>
+                    <g transform="translate(7.9906, 57)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 375)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 428)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 481)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 534)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 587)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 322)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 163)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.9906, 110)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(8.9899, 269)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(8.9899, 216)">
+                        <g fill="#000000" opacity="0.08">
+                            <path d="M19.6871259,-7.4119954e-16 L250.10054,7.4119954e-15 C256.243943,-4.9376983e-15 258.995024,0.742604889 261.602432,2.13706163 C264.209839,3.53151837 266.256148,5.57782696 267.650604,8.18523437 C269.045061,10.7926418 269.787666,13.5437228 269.787666,19.6871259 L269.787666,26.3128741 C269.787666,32.4562772 269.045061,35.2073582 267.650604,37.8147656 C266.256148,40.422173 264.209839,42.4684816 261.602432,43.8629384 C258.995024,45.2573951 256.243943,46 250.10054,46 L19.6871259,46 C13.5437228,46 10.7926418,45.2573951 8.18523437,43.8629384 C5.57782696,42.4684816 3.53151837,40.422173 2.13706163,37.8147656 C0.742604889,35.2073582 0,32.4562772 0,26.3128741 L0,19.6871259 C0,13.5437228 0.742604889,10.7926418 2.13706163,8.18523437 C3.53151837,5.57782696 5.57782696,3.53151837 8.18523437,2.13706163 C10.7926418,0.742604889 13.5437228,4.9376983e-16 19.6871259,-7.4119954e-16 Z" style="mix-blend-mode: normal;"></path>
+                        </g>
+                        <g opacity="0.200000003" transform="translate(220.7877, 0)" fill="#FFFFFF" fill-opacity="0.96" font-family="SFPro-Medium, SF Pro" font-size="19" font-weight="400" line-spacing="24">
+                            <text>
+                                <tspan x="9.19636786" y="18">􀓔</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g transform="translate(50, 4.6563)" fill="#FFFFFF">
+                                <text opacity="0.4" style="mix-blend-mode: normal;" font-family="SFPro-Regular, SF Pro" font-size="10" font-weight="normal" line-spacing="18">
+                                    <tspan x="8.965" y="28.0233794">This is a subtit</tspan>
+                                </text>
+                                <text font-family="SFPro-Medium, SF Pro" font-size="14" font-weight="400" line-spacing="22" fill-opacity="0.96">
+                                    <tspan x="0" y="13">This is a title</tspan>
+                                </text>
+                            </g>
+                            <g transform="translate(4, 4.9332)" fill-opacity="0.96">
+                                <g fill="#0A84FF">
+                                    <circle cx="18" cy="18" r="18"></circle>
+                                </g>
+                                <text font-family="SFPro-Bold, SF Pro" font-size="16.5441176" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="8.40311926" y="16">􀓔</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text fill="url(#linearGradient-1)" fill-rule="nonzero" font-family="TimesNewRomanPSMT, Times New Roman" font-size="28" font-weight="normal">
+                        <tspan x="25.8840749" y="25">Accounts List</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
